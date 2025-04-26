@@ -22,4 +22,6 @@ body {
     image-rendering: crisp-edges;
     image-rendering: -moz-crisp-edges;
     border: 10px solid;
+    border-color: rgb(37, 34, 30)
+    background-color: rgb(241, 241, 246)
 }
