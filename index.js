@@ -9,5 +9,7 @@ window.addEventListener('DOMContentLoaded', () => {
         const tag = document.createElement('p')
 
         tag.innerText = error.message
+
+        document.body.appendChild(tag)
     }
 })
