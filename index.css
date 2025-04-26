@@ -1,3 +1,13 @@
+@font-face {
+    src: local("./fonts/Inter-Regular.ttf");
+    font-family: Inter
+}
+
+html, body {
+    background-color: #23272A;
+    font-family: Inter, sans-serif
+}
+
 #campominado {
     image-rendering: pixelated;
     image-rendering: crisp-edges;
