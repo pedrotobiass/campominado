@@ -1,5 +1,8 @@
 function main() {
-    throw new Error('Hello, World!')
+    const canvas = document.querySelector('#campominado')
+    const ctx = canvas.getContext('2d')
+    ctx.font = '20px Arial'
+    ctx.fillText('Ola, Mundo!')
 }
 
 window.addEventListener('DOMContentLoaded', () => {
