@@ -2,7 +2,7 @@ function main() {
     const canvas = document.querySelector('#campominado')
     const ctx = canvas.getContext('2d')
     ctx.font = '20px Arial'
-    ctx.fillText('Ola, Mundo!', 0, 0)
+    ctx.fillText('Ola, Mundo!', canvas.width / 2, canvas.height / 2)
 }
 
 window.addEventListener('DOMContentLoaded', () => {
