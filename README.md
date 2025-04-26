@@ -3,10 +3,10 @@
 
 # Objectives:
 
-[ ] - develop v1
-[ ] - develop v2 and algorithms
-[ ] - integrate online mode and anti cheats
-[ ] - against time mode
-[ ] - games created from seeds
-[ ] - daily challenge
+[ ] - develop v1<br>
+[ ] - develop v2 and algorithms<br>
+[ ] - integrate online mode and anti cheats<br>
+[ ] - against time mode<br>
+[ ] - games created from seeds<br>
+[ ] - daily challenge<br>
 [ ] - rank and elo system
