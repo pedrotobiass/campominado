@@ -5,7 +5,8 @@
 
 html,
 body {
-    background-color: rgb(62, 65, 74) font-family: Inter, sans-serif;
+    background-color: rgb(62, 65, 74);
+    font-family: Inter, sans-serif;
     color: rgb(241, 241, 246)
 }
 
