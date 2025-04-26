@@ -3,9 +3,17 @@
     font-family: Inter
 }
 
-html, body {
-    background-color: #23272A;
-    font-family: Inter, sans-serif
+html,
+body {
+    background-color: rgb(62, 65, 74) font-family: Inter, sans-serif;
+    color: rgb(241, 241, 246)
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    height: 200px;
+
 }
 
 #campominado {
