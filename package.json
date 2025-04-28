@@ -1,0 +1,24 @@
+{
+  "name": "@pedrotobias/campominado",
+  "version": "0.0.1",
+  "description": "Campo Minado web game",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrotobiass/campominado.git"
+  },
+  "author": "pedrotobiass",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pedrotobiass/campominado/issues"
+  },
+  "homepage": "https://github.com/pedrotobiass/campominado#readme",
+  "dependencies": {
+    "koa": "^2.16.1",
+    "koa-static": "^5.0.0"
+  }
+}
