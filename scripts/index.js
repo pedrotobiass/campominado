@@ -1,3 +1,5 @@
+import "./canvas"
+
 function main() {
 }
 
