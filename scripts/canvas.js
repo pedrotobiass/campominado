@@ -4,10 +4,9 @@ const canvas = document.querySelector('#campominado')
 const gl = canvas.getContext('webgl2')
 
 const span = document.querySelector('#gl')
-span.innerText = 'Using webgl-2'
 
 if(!gl) {
     alert('Your browser does not support webgl')
 } else {
-
+    span.innerText = 'Using webgl2'
 }

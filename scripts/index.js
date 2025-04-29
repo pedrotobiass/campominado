@@ -1,4 +1,4 @@
-import "./canvas"
+import "./canvas.js"
 
 function main() {
 }
