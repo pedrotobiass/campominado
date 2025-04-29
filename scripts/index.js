@@ -1,11 +1,10 @@
-import "./canvas.js"
-
-function main() {
+async function main() {
+    await import('./canvas.js')
 }
 
-window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('DOMContentLoaded', async() => {
     try {
-        main()
+        await main()
     } catch(error) {
         const tag = document.createElement('p')
 
